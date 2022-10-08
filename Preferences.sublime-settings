@@ -1,0 +1,17 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"color_scheme": "Packages/Colorsublime - Themes/Another_Kolor_Light.tmTheme",
+  	"theme": "Material-Theme.sublime-theme",
+  	"save_on_focus_lost": true,
+  	 "material_theme_accent_cyan": true,
+  	 "material_theme_small_tab": true,
+  	 "material_theme_tabs_autowidth": true,
+  	 "highlight_modified_tabs": true,
+  	 "fade_fold_buttons": false,
+  	 "bold_folder_labels": true
+
+
+}

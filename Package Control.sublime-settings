@@ -1,0 +1,27 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Agila Theme",
+		"Alignment",
+		"Babel",
+		"Babel Snippets",
+		"Color Highlighter",
+		"Color Scheme - Pastels UI",
+		"Colorsublime",
+		"Emmet",
+		"GitGutter",
+		"JSONLint",
+		"Laravel Blade Highlighter",
+		"Material Monokai",
+		"Material Theme",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeGit",
+		"SublimeLinter",
+		"Terminal",
+	],
+}
